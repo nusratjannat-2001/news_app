@@ -1,0 +1,12 @@
+ flutter run -d chrome --web-renderer html
+ 
+flutter pub get --offline
+
+com.example.my_news_app
+
+keytool -list -v -keystore C:\Users\username\.android\debug.keystore
+-alias androiddebugkey -storepass android -keypass android
+
+Certificate fingerprints:
+         SHA1: AF:DF:69:D5:B7:7E:BC:2D:BE:F3:BD:60:D1:58:77:7B:ED:EF:28:84
+         SHA256: CD:A1:4C:D1:C7:C9:E5:2F:29:A1:33:42:C4:3D:DB:F9:4A:5F:07:5A:F2:85:90:F7:87:3D:B7:A4:FD:98:7A:40
